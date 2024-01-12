@@ -1,4 +1,0 @@
-# Backlog по front-end
-(тут будет документация)
-***
-[🠔 Вернуться к разделу разработки front-end](https://github.com/KirGenHeart/documentation/blob/main/front-end/front-end-dev.md)
