@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Выбор аватара</title>
+</head>
+<body>
+<!-- HTML код для блока выбора аватара -->
+<div class="avatar-block" style="overflow-y: hidden;">
+  <!-- Блок с надписью "Выберите аватар" или выбранной аватаркой -->
+  <div class="avatar-header" onclick="toggleAccordion()">
+    <span>Выберите аватар</span>
+    <img src="" alt="" id="selected-avatar" hidden>
+  </div>
+  <!-- Блок с вариантами выбора аватара, скрытый по умолчанию -->
+  <div class="avatar-options" style="max-height: 0px;" hidden="">
+    <!-- Изображения аватаров, которые можно выбрать -->
+    <img src="avatars/avatar_man_beard.svg" alt="Бородач" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_man_beard2.svg" alt="Бородач 2" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_man_brunette.svg" alt="Брюнет" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_man_cowboy.svg" alt="Ковбой" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_man_engineer.svg" alt="Инженер" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_man_sailor.svg" alt="Морячок" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_man_sport.svg" alt="Спортсмен" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_man_young.svg" alt="Молодой" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_robot.svg" alt="Робот" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_robot2.svg" alt="Робот 2" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_blonde.svg" alt="Блондинка" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_blonde2.svg" alt="Блондинка 2" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_brunette.svg" alt="Брюнетка" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_brunette2.svg" alt="Брюнетка 2" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_glases.svg" alt="В очках" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_glases2.svg" alt="В очках 2" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_military.svg" alt="Военная" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_redDress.svg" alt="В платье" onclick="selectAvatar(this)">
+    <img src="avatars/avatar_woman_young.svg" alt="Молодая" onclick="selectAvatar(this)">
+  </div>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.rnd-text-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+#icon {
+  margin-left: 10px;
+}
