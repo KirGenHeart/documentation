@@ -1,6 +1,6 @@
 # Разработка front-end
 ## Страницы main, login, register
-**Задачи в бэклоге (7/21)**
+<font color="#ED1C24">**Задачи в бэклоге (7/21)**</font>
 * [structure](https://github.com/KirGenHeart/documentation/blob/main/front-end/pages-main-login-register/0.structure.md)
 * [header, footer (1/6)](https://github.com/KirGenHeart/documentation/blob/main/front-end/pages-main-login-register/1.header-footer.md)
 * [main (главная) (4/8)](https://github.com/KirGenHeart/documentation/blob/main/front-end/pages-main-login-register/2.main.md)
