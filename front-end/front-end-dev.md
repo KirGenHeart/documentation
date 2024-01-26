@@ -10,5 +10,9 @@
 * [main (главная) (8/8)](https://github.com/KirGenHeart/documentation/blob/main/front-end/pages-main-login-register/1.main.md)
 * [login (страница входа) (2/2)](https://github.com/KirGenHeart/documentation/blob/main/front-end/pages-main-login-register/2.login.md)
 * [register (страница регистрации) (3/3)](https://github.com/KirGenHeart/documentation/blob/main/front-end/pages-main-login-register/3.registration.md)
+
+## StartGame
+**Текущие адачи в бэклоге - 2/2**
+* [StartGame, первая игровая страница 2/2](https://github.com/KirGenHeart/documentation/blob/main/front-end/game/startGame/1.startGame.md)
 ***
 [🠔 Вернуться к содержанию](https://github.com/KirGenHeart/documentation/blob/main/readme.md)
